@@ -1,6 +1,27 @@
 # MyRecipesBook
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+Practice project from [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)'s "Angular - The Complete Guide" course on Udemy. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+As per the course description I'll learn:
+
+- Which architecture Angular uses
+- How to use TypeScript to write Angular applications
+- All about directives and components, including the creation of custom directives/ components
+- How databinding works
+- All about routing and handling navigation
+- What Pipes are and how to use them
+- How to access the Web (e.g. RESTful servers)
+- What dependency injection is and how to use it
+- How to use Modules in Angular
+- How to optimize your (bigger) Angular Application
+- An introduction to NgRx and complex state management
+- and so much more!
+
+-------------------------------------
+
+## How to install
+
+Run `npm install` to install the project dependencies.
 
 ## Development server
 
